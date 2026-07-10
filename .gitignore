@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+data/raw/*.csv
+data/cleaned/*.csv
+data/cleaned/*.db
+.ipynb_checkpoints/
+.venv/
+venv/
+*.log
