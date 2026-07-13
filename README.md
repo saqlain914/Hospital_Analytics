@@ -15,7 +15,7 @@ Dataset source: https://www.kaggle.com/datasets/kanakbaghel/hospital-management-
 # ▶ Quick Start
 
 ```bash
-git clone <this-repo>
+git clone https://github.com/saqlain914/Hospital_Analytics
 cd Hospital-Analytics
 pip install -r requirements.txt
 cp .env.example .env          # defaults to a local SQLite DB, zero setup needed
