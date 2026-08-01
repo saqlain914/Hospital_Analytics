@@ -29,7 +29,7 @@ import pandas as pd
 RAW_DATA_DIR = Path(__file__).resolve().parent.parent / "data" / "raw"
 RAW_DATA_DIR.mkdir(parents=True, exist_ok=True)
 
-KAGGLE_DATASET = "kanakbaghel/hospital-management-dataset"
+KAGGLE_DATASET = "prasad22/healthcare-dataset"
 OUTPUT_FILE = RAW_DATA_DIR / "hospital_raw.csv"
 
 
